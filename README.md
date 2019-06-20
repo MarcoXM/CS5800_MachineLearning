@@ -1,6 +1,8 @@
 # CS5800
 ## Machine Learning
 
+![](http://progressed.io/bar/100?title=done)
+
 Homeworks and Final Projects
 
 ### Final Project
